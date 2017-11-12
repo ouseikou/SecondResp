@@ -3,3 +3,5 @@ update a = 1
 #I went to chang 1.txt's context at timeNode1
 
 #I do something at branch-fen at txt1,this's to compare
+
+#Test conflict : I do in fen1 branch
