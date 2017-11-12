@@ -4,4 +4,7 @@ update a = 1
 
 #I do something at branch-fen at txt1,this's to compare
 
+
 #conflict Test: i do in master branch
+#Test conflict : I do in fen1 branch
+###above:to be saved,and solve conflict
