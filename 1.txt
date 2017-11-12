@@ -1,1 +1,2 @@
-update a = 1
+update a = new 1.5
+b = 2
